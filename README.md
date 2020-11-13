@@ -1,4 +1,6 @@
-# vue-cli
+# Vue-Shop-App
+
+This repository a SPA built with Vue + Vuex + Vue Router.
 
 ## Project setup
 ```

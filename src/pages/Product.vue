@@ -18,9 +18,6 @@
                     
                     </carousel>
                      </div>
-                   <!--  
-                    <img :src="product.img" :alt="product.title">
-                    -->
 
                     <!-- content -->
                     <div class="product-content">
